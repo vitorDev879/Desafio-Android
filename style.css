@@ -12,13 +12,13 @@ html {
     src: url('idroid.otf');
 }
 
+body {
+    background-color: #c5ebd6;
+}
+
 header { 
     text-align: center;
     font-family: 'idroid', sans-serif;
     background-image: linear-gradient();
 }
 
-.menu { 
-    text-align: left;
-    padding-top: 50px;
-}
